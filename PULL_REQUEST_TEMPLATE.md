@@ -3,9 +3,9 @@
 ## Art der Änderungen
 <!-- Bitte wähle die passenden Optionen mit [x] aus: -->
 - [ ] Inhalte (Text, Bilder, Videos, etc.)
-- [ ] Bugfix (nicht-brechende Änderung, die ein Problem behebt)
-- [ ] Neue Funktion (nicht-brechende Änderung, die eine neue Funktionalität hinzufügt)
-- [ ] Breaking Change (Fix oder Feature, das bestehende Funktionalität bricht)
+- [ ] Bugfix 
+- [ ] Neue Funktion 
+- [ ] Breaking Change
 - [ ] Dokumentation
 - [ ] Refactoring
 - [ ] Sonstiges (bitte beschreiben)
