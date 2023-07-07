@@ -12,8 +12,8 @@
 ## Jira Ticket mit Link
 {{XXX-0000}}
 
-## Links zur Webseite zu Testzwecken (Ansicht oder Live)
-{{https://www.example.com}}
+## Wie kann das Feature getestet werden?
+<!-- Anweisungen zur Überprüfung der Änderungen. Inklusive Links zum Testsystem und Testdaten -->
 
 ## Checkliste vor dem Erstellen des Pull Requests
 - [ ] Ich habe die Änderungen lokal getestet
