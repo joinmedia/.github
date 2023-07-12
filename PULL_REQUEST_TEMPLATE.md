@@ -12,7 +12,7 @@
 
 ## Jira Ticket mit Link
 <!-- Bitte füge den Link zum Jira Ticket ein. Sollte das Ticket nicht automatisch verlinkt werden, fehlt diese Einstellung im Repository. Wende dich an einen Github Admin um es einstellen zu lassen -->
-{{XXX-0000}}
+XXX-0000
 
 ## Wie kann das Feature getestet werden?
 <!-- Anweisungen zur Überprüfung der Änderungen. Inklusive Links zum Testsystem und Testdaten -->
