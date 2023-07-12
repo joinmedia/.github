@@ -19,6 +19,7 @@ XXX-0000
 
 ## Checkliste vor dem Erstellen des Pull Requests
 <!-- Bitte wähle die passenden Optionen mit [x] aus: -->
+- [ ] Ich habe ein Github-Label (rechts) für diesen PR ausgewählt <!-- wichtig für's Changelog -->
 - [ ] Ich habe die Änderungen lokal getestet
 - [ ] Ich habe die Änderungen auf einem Testsystem getestet
 - [ ] Ich habe die Änderungen auf verschiedenen Browsern getestet
