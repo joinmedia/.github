@@ -4,10 +4,10 @@
 <!-- Bitte wähle die passenden Optionen mit [x] aus: -->
 - [ ] Inhalte (Text, Bilder, Videos, etc.)
 - [ ] Bugfix 
-- [ ] Neue Funktion 
-- [ ] Breaking Change
+- [ ] Feature
 - [ ] Dokumentation
 - [ ] Refactoring
+- [ ] Tests
 - [ ] Sonstiges (bitte beschreiben)
 
 ## Jira Ticket mit Link
