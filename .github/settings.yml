@@ -16,10 +16,6 @@ labels:
     color: FBCA04
     description: New or changed content (text, images etc.)
 
-  - name: content
-    color: FBCA04
-    description: New or changed content (text, images etc.)
-
   - name: documentation
     color: 0052CC
     description: Improvements or additions to documentation
