@@ -19,4 +19,8 @@ labels:
   - name: documentation
     color: 0052CC
     description: Improvements or additions to documentation
+
+  - name: dependencies
+    color: 787C6C
+    description: dependency updates
     
