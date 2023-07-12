@@ -8,6 +8,7 @@
 - [ ] Dokumentation
 - [ ] Refactoring
 - [ ] Tests
+- [ ] Dependencies (node_modules o.ä.)
 - [ ] Sonstiges (bitte beschreiben)
 
 ## Jira Ticket mit Link
