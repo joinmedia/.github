@@ -1,14 +1,26 @@
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: bug
-    color: CC0000
-    description: An issue with the system 🐛.
+  - name: fix
+    color: B60205
+    description: Something is not working
 
   - name: feature
-    # If including a `#`, make sure to wrap it with quotes!
-    color: '#336699'
-    description: New functionality.
+    color: 0E8A16
+    description: New functionality
 
-  - name: Help Wanted
-    # Provide a new name to rename an existing label
-    new_name: first-timers-only
+  - name: test
+    color: 5319E7
+    description: New or changed tests
+    
+  - name: content
+    color: FBCA04
+    description: New or changed content (text, images etc.)
+
+  - name: content
+    color: FBCA04
+    description: New or changed content (text, images etc.)
+
+  - name: documentation
+    color: 0052CC
+    description: Improvements or additions to documentation
+    
